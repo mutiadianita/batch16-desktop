@@ -1,0 +1,41 @@
+1 ODD
+2 EVEN
+3 ODD
+4 EVEN
+...
+10 EVEN
+
+
+MODULO = SISA PEMBAGIAN
+10 MOD 2 = 0
+11 MOD 2 = 1
+7 MOD 5 = 2
+13 MOD 6 = 1
+
+FUN FACT:
+angka genap MOD 2 = 0
+angka ganjil MOD 2 = 1
+
+
+STORE "hitung" equal to 1       //INISIASI
+WHILE "hitung" <= 10            //KONDISI
+    DISPLAY "hitung"            //AKSI
+    CALCULATE "hitung" MOD 2
+    STORE "sisa" as the result of calculation
+    IF "sisa" equal to 0
+        DISPLAY "EVEN"
+    ELSE
+        DISPLAY "ODD"
+    ADD hitung with 1           //ITERASI
+
+1 ODD
+2
+3
+4
+5
+6
+7
+8
+9
+10
+

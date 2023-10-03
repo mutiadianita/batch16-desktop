@@ -1,0 +1,14 @@
+READ and SAVE "first number"
+READ and SAVE "second number"
+COMPUTE "first number" added by "second number"
+SAVE previous computation result
+SHOW the computation result
+
+INPUT and STORE "first number"
+INPUT and STORE "second number"
+CALCULATE "first number" plus "second number"
+STORE calculation result
+DISPLAY result
+
+kata kerja = HURUF KAPITAL
+object/subject = "pakai kutip"

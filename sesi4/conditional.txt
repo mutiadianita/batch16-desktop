@@ -1,0 +1,24 @@
+IF "hungry"
+    //ini hanya dijalankan jika if benar
+    DO "eat"
+DISPLAY "i am happy"
+
+hungry - eat - happy
+not hungry - happy
+
+=========================================
+
+STORE "score" to any value
+
+IF "score" < 70
+    //ini hanya dijalankan jika if benar
+    DO "learn more"
+ELSE
+    //ini hanya dijalankan jika if salah
+    DO "reward myself"
+
+DO "continue with life"
+
+80 - reward myself - continue with life
+60 - learn more - continue with life
+

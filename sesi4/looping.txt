@@ -1,0 +1,20 @@
+1. INISIASI = KAPAN KITA MULAI
+2. KONDISI = KAPAN KITA BERHENTI
+3. ITERASI = DILAKUKAN AGAR KONDISI TERPENUHI
+
+
+STORE "angka" with 1                //INISIASI
+WHILE "angka" <= 1000               //KONDISI
+    DISPLAY "angka"                 // AKSI
+    CALCULATE "angka" added with 1  //ITERASI
+
+LOOPING akan berhenti jika kondisi salah
+
+1
+2
+3
+4
+5
+6
+7
+1000
